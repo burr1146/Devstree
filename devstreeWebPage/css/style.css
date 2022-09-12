@@ -1,0 +1,246 @@
+*{
+    font-family:'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.heading-1{
+    font-weight: 600;
+    font-size: 3.5vw;
+    letter-spacing: 0.01em;
+    color: #05060A;
+    display: flex;
+    justify-content: center;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+section{
+    padding-top: 5vw;
+}
+
+
+/* header css */
+
+.banner-text {
+    padding-top: 3vw;
+}
+.banner-text h1{
+        font-weight: 600;
+        font-size: 5vw;
+        letter-spacing: 0.01em;
+        color: #05060A;
+}
+.banner-text p{
+    width: 38vw;
+    font-weight: 500;
+    font-size: 1.3vw;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #5D616F;
+    text-align: justify;
+}
+.banner-text a{
+    text-decoration: none;
+}
+.banner-text a .btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5vw 1vw;
+    font-size: 1.3vw;
+    color: white;
+    background: #D86700;
+    box-shadow: 0px 4px 60px rgba(62, 130, 252, 0.35);
+    border-radius: 40px;
+}
+.image-banner-con{
+    position: relative;
+    top: -9%;
+
+}
+
+/* service section */
+
+
+.service-text{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    padding-top: 25px;
+}
+
+    /* hire section */
+    .hire-section{
+        
+        background-color: #ECF3FF;
+        align-items: center;
+    }
+    .heading-hire{
+        font-style: normal;
+        font-size: 4vw;
+    
+        text-align: center;
+        color: #05060A;
+        margin: 0!important;
+        
+        padding-bottom: 2rem;
+
+    }
+    
+    .style{
+ 
+    font-style: normal;
+   
+    text-align: center;
+    color: #D86700!important;
+    font-size: 3vw!important;
+    }
+    .same-color{
+        background-color: #ECF3FF;
+    }
+
+    .hire-img{
+        width: 60%;
+    }
+
+    /* choose section */
+    .Choose ul{
+        list-style-type: none;
+    }
+    .Choose ul li{
+        font-weight: 200;
+        font-size: 2vw;
+        font-weight: 600;
+    }
+    .choose-img{
+        width: 70%;
+    }
+    .Choose ul li::before{
+        padding-right: 15px;
+        font-size: 2vw;
+        content: "\f058";
+       
+        
+      
+    }
+
+
+    /* industry section */
+   
+        
+
+    /* slider section */
+    
+    .slider{
+    max-width: 1100px;
+    display: flex;
+  }
+  .slider .card{
+    flex: 1;
+    margin: 0 10px;
+    background: #fff;
+  }
+  .slider .card .img img{
+    height: 100%;
+    width: 100%;
+    
+    object-fit: cover;
+  }
+  .slider .card .content{
+    padding: 1vw 1.5vw;
+  }
+  .card .content .title{
+    font-size: 1.6vw;
+    font-weight: 600;
+  }
+  .card .content .sub-title{
+    font-size: 1.2vw;
+    font-weight: 600;
+    color: #D86700;
+    line-height: 2rem;
+  
+  }
+
+
+  
+
+
+    /* Ach section */
+
+   
+   
+    /* footer section */
+
+    .part{
+        padding-top: 2rem;
+    }
+    
+    .foot-p{
+        font-size: 1.3vw;
+    }
+    .footer-btn-1{
+      
+        color: #D86700!important;
+        border-radius: 40px!important;
+       
+        font-size: 1.5vw!important;
+        border: 2px solid #D86700!important;
+        align-items: center;
+    }
+    .footer-btn-1:hover{
+      
+        background-color: #D86700!important;
+        color: white!important;
+    }
+    .footer-btn-2{
+        background-color: #D87000!important;
+        border-radius: 40px!important;
+        font-size: 1.5vw!important;
+    
+    }
+    .mail-img{
+        width: 6%;
+        padding-bottom: 0.5vw;
+    }
+   .foot-para{
+    font-size: 1.2vw;
+    line-height: 150%;
+    width: 20vw;
+    color: #5D616F;
+    text-align: justify;
+    text-decoration: none;
+    text-decoration: none;
+   }
+  
+   .f-logo{
+    width: 10vw;
+   }
+   .fff{
+    width: 2vw;
+    padding-right: 0.5vw;
+   }
+   .fff1{
+    width: 2vw!important;
+    
+   }
+   .f-s{
+    font-size:1.5vw;
+    font-weight: 600;
+   }
+   .custum-padding{
+    padding-top: 5vw;
+   }
+   .custum-padding1{
+    padding-top: 8vw;
+   }
+  .Footer ul{
+    list-style-type: none;
+  }
+  .Footer ul li a{
+    text-decoration: none;
+    color: #5D616F!important;
+  }
+  .Footer .img-fluid{
+    width: 3vw;
+    margin-left:5px
+  }

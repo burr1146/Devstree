@@ -1,0 +1,24 @@
+
+
+<header>
+    <div class="container">
+        <div class="logo-image">
+            <img src="images/logo.png" alt="" class="img-fluid">
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="banner-text">
+                    <h1>Mobile App Developement</h1>
+                    <p>Mobile Application Design and Development that deals with global
+                        brands. Give us your business dreams, and we will transform that inspiration to
+                        stylish mobile apps with versatile mobile formats that satisfy your customers.</p>
+                    <a href="#"><button></button></a>
+                </div>
+
+            </div>
+            <div class="col-md-6">
+
+            </div>
+        </div>
+    </div>
+</header>

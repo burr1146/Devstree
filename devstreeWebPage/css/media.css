@@ -1,0 +1,159 @@
+    /* header css */
+    @media only screen and (max-width:768px){
+
+        .Header .logo-image .img-fluid{
+            width: 10vw;
+        }
+      
+       
+        .banner-text h1{
+                font-weight: 600;
+                font-size: 4vw;
+                /* letter-spacing: 0.01em; */
+                color: #05060A;
+        }
+        .banner-text p{
+            width: 54vw;
+            font-weight: 500;
+            font-size: 1.3vw;
+            line-height: 150%;
+            letter-spacing: 0.05em;
+            color: #5D616F;
+            text-align: justify;
+        }
+        
+       
+        .image-banner-con{
+            position: relative;
+           padding-top: 50px;
+           width: 50%;
+           
+
+}
+.service-text{
+    font-weight: 600;
+    font-size: 5vw;
+    line-height: 26px;
+    padding-top: 25px;
+}
+.choose-img{
+    width: 50%;
+}
+
+
+
+
+
+    }
+    
+
+
+    /* port ascetion */
+
+    @media only screen and (max-width:768px){
+        .slider .card{
+            width: 40vw;
+            
+        }
+        .slider .card .img img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+          }
+          .slider .card .content{
+            padding: 1vw 2.5vw;
+          }
+          .card .content .title{
+            font-size: 2.5vw;
+            font-weight: 600;
+          }
+          .card .content .sub-title{
+            font-size: 1.5vw;
+            font-weight: 600;
+            color: #D86700;
+            line-height: 2rem;
+          }
+    }
+    /* slider section */
+  
+
+    /* ach section0 */
+    @media only screen and (max-width:768px){
+
+        .ach-img{
+            width: 25vw;
+        }
+       
+        .a-name{
+           font-family: 'poppins';
+           font-size: 3vw;
+           font-weight: 500;
+           padding-top: 20px;
+        }
+
+
+    }
+
+
+
+
+
+/* footer */
+    @media only screen and (max-width:768px){
+        .f-p{
+            font-size: 2vw;
+            display: flex;
+            justify-content: center;
+        }
+        .f-btn-1{
+          
+            color: #D86700;
+            border-radius: 30px;
+            width: 100%;
+            
+            font-size: 2.5vw;
+            border: 2px solid #D86700;
+        }
+        .f-btn-2{
+            color: white;
+            background-color: #D87000;
+            font-size: 3.5vw;
+            border-radius: 30px;
+            width: 100%;
+            
+            border-radius:2px solid #D87000;
+        
+        }
+       .foot-para{
+        
+        font-size: 2vw;
+     display: flex;
+     justify-content:flex-start;
+        width: 60vw;
+        color: #5D616F;
+        text-align: justify;
+       }
+       .f-logo{
+        width: 10vw;
+       }
+       .fff{
+        width: 4%;
+        padding-right: 0.5vw;
+       }
+       .fff1{
+        width: 2vw!important;
+       }
+       .f-s{
+        font-size:3vw;
+        font-weight: 600;
+       }
+      .f-set{
+        display: flex!important;
+        justify-content: center!important;
+      }
+      .f-set-2{
+        padding-left: 28vw;
+      }
+     
+
+    }
